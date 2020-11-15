@@ -6,7 +6,7 @@ layout: default
 
 This is my webpage and course work from the week.
 
-![My Picture](/pictures/parkd_Funny.jpg)
+![My Picture](/pictures/Funny.jpg)
 
 -[Time Series Decomposition](/timeseries/index.md)
 
