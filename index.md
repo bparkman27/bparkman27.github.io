@@ -6,7 +6,7 @@ layout: default
 
 This is my webpage and course work from the week.
 
-![My Picture](C:/Users/parkd/OneDrive/Documents/pics/Funny.jpg)
+![My Picture](/pics/Funny.jpg)
 
 -[Time Series Decomposition](/timeseries/index.md)
 
